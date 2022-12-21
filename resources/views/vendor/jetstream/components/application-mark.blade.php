@@ -1,0 +1,1 @@
+<img src="{{asset ('image/3.png') }}" alt="5png" class="max-w-full mx-auto   w-[75px] h-[80px]" />
